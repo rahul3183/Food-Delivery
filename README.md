@@ -9,8 +9,8 @@ A food delivery app built with React Native, Sanity.io.
   </ul>
 <br>
 <h3>Screenshots</h3>
-<img src ="https://user-images.githubusercontent.com/13084034/212337122-927f1a38-9760-4294-a70f-5ee24ff9e010.png" width="300" height="550">
-<img src ="https://user-images.githubusercontent.com/13084034/212337277-c91a2826-fba6-42b1-8f67-2933a3357a39.png" width="300" height="550">
+<img src ="https://user-images.githubusercontent.com/13084034/212337122-927f1a38-9760-4294-a70f-5ee24ff9e010.png" width="200" height="450">
+<img src ="https://user-images.githubusercontent.com/13084034/212337277-c91a2826-fba6-42b1-8f67-2933a3357a39.png" width="200" height="450">
 <img src ="https://user-images.githubusercontent.com/13084034/212337289-9adbf4ab-4dc5-446a-943a-c3aa01f0c021.png" width="300" height="550">
 <img src ="https://user-images.githubusercontent.com/13084034/212337346-3fe39fd8-2d78-4543-a58e-16b289b679fc.png" width="300" height="550">
 <img src ="https://user-images.githubusercontent.com/13084034/212337354-1e0c1d55-8c2e-4fd2-9515-97296d5dbe2b.png" width="300" height="550">
