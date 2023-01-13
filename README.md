@@ -2,6 +2,8 @@
 A food delivery app built with React Native, Sanity.io.
 
 <h3>Techology Stack</h3>
-React Native
-Tailwind CSS
-Sanity.io
+<br>
+<ul>
+<li>React Native</li>
+<li>Tailwind CSS</li>
+<li>Sanity.io</li>
