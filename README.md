@@ -19,6 +19,7 @@ A food delivery app built with React Native, Sanity.io.
   <li>Lottie - Animated icons</li>
   </ul>
   <br>
+  <h4> Download the apk - <a href="https://github.com/rahul3183/Food-Delivery-App/releases/download/foodDelivery/FoodDeliveryApkV1.apk">Link</a>
 <h3>Screenshots</h3>
 <p>
 <img src ="https://user-images.githubusercontent.com/13084034/212337122-927f1a38-9760-4294-a70f-5ee24ff9e010.png" width="280" height="500"> &emsp;&emsp;&emsp;
