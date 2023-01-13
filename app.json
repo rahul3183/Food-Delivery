@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Deliveroo",
+    "slug": "fooddelivery",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/AppIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/AppSplash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00CCBB"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/8812f741-35bb-4dd8-9ce3-719e40c35693"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.rahul3183.fooddelivery"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8812f741-35bb-4dd8-9ce3-719e40c35693"
+      }
+    },
+    "owner": "rahul3183",
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 32,
+            "targetSdkVersion": 32,
+            "buildToolsVersion": "32.0.0"
+          }
+        }
+      ]
+    ]
+  }
+}
