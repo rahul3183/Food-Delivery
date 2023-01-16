@@ -11,7 +11,7 @@ A food delivery app built with React Native, Sanity.io.
   <h3>Dependencies</h3>
   <ul>
   <li>React - UI</li>
-  <li>Redux- State Management CSS</li>
+  <li>Redux- State Management</li>
   <li>Sanity.io - Store Backend</li>
   <li>Axios - HTTP Request</li>
   <li>Vector Icons - icons</li>
